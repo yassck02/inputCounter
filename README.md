@@ -1,4 +1,4 @@
-#inputCounter
+# inputCounter
 A menubar app for MacOS that counts keypresses and clicks
 
 |                                       |                                       |
@@ -11,9 +11,6 @@ A menubar app for MacOS that counts keypresses and clicks
 - Xcode
 - MacOS
 - Cocoa, UIKit, AppKit
-
-### How it works
-
 
 ### Related Links
 - https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/EventOverview/MonitoringEvents/MonitoringEvents.html
